@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "bSpZhYnONn4=",
+  "success": true,
+  "projectFilePath": "/mnt/games_and_shit/india-command-center-client/india-command-center-client.csproj",
+  "expectedPackageFiles": [
+    "/home/sh1rm4n/.nuget/packages/hardware.info/110.0.0.1/hardware.info.110.0.0.1.nupkg.sha512",
+    "/home/sh1rm4n/.nuget/packages/hardware.info.core/110.0.0.1/hardware.info.core.110.0.0.1.nupkg.sha512",
+    "/home/sh1rm4n/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/sh1rm4n/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/sh1rm4n/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512",
+    "/home/sh1rm4n/.nuget/packages/serilog/4.4.0/serilog.4.4.0.nupkg.sha512",
+    "/home/sh1rm4n/.nuget/packages/serilog.sinks.console/6.1.1/serilog.sinks.console.6.1.1.nupkg.sha512",
+    "/home/sh1rm4n/.nuget/packages/system.codedom/8.0.0/system.codedom.8.0.0.nupkg.sha512",
+    "/home/sh1rm4n/.nuget/packages/system.configuration.configurationmanager/8.0.0/system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "/home/sh1rm4n/.nuget/packages/system.diagnostics.eventlog/8.0.0/system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "/home/sh1rm4n/.nuget/packages/system.diagnostics.performancecounter/8.0.0/system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "/home/sh1rm4n/.nuget/packages/system.management/8.0.0/system.management.8.0.0.nupkg.sha512",
+    "/home/sh1rm4n/.nuget/packages/system.security.cryptography.protecteddata/8.0.0/system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "/home/sh1rm4n/.nuget/packages/watsonwebsocket/4.1.8/watsonwebsocket.4.1.8.nupkg.sha512",
+    "/home/sh1rm4n/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
